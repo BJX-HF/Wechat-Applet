@@ -1,0 +1,3 @@
+<!--pages/jianzhi/jianzhi.wxml-->
+<import src="../template/template_show1.wxml"></import>
+<template is="showrecord" data="{{list}}"></template>
